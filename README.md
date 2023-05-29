@@ -1,4 +1,4 @@
-- 👀 I’m interested in LInux / Python
+- 👀 I’m interested in LInux / Python / java
 - 🌱 I’m currently learning Naver Cloud AIaas a Developer course
 - 📫 How to reach me hooil0916@gmail.com
 
