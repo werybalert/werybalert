@@ -1,6 +1,8 @@
 - 👀 I’m interested in LInux / Python / java
 - 🌱 I’m currently learning Naver Cloud AIaas a Developer course
 - 📫 How to reach me hooil0916@gmail.com
+- 🔥 Always trigger my best 🔥
+
 
 <!---
 werybalert/werybalert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
