@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Naver Cloud AIaas a Developer course
 - 📫 How to reach me hooil0916@gmail.com
 - 🔥 Always trigger my best 🔥
-- 👏 Always doing hard
 
 <!---
 werybalert/werybalert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
